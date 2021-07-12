@@ -5,7 +5,6 @@
 
 <%
 	PersonVo personVo = (PersonVo)request.getAttribute("pVo");
-	
 %>
 
 <!DOCTYPE html>
