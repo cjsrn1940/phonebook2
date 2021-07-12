@@ -4,7 +4,6 @@
 <%@ page import="com.javaex.vo.PersonVo" %>
 
 <%
-
 	PersonVo personVo = (PersonVo)request.getAttribute("pVo");
 	
 %>
